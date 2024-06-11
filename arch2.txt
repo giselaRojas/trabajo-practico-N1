@@ -1,0 +1,1 @@
+GitHub es una plataforma de alojamiento de código fuente que utiliza Git como sistema de control de versiones
